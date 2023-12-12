@@ -1,3 +1,7 @@
-Arquivos Kotlin e Python de captura da aluna Bruna Bizaroli Rasmussen RA: 03231000
+Seja bem-vindo ao repositório das capturas para análise de memória versátil! Aqui você vai encontrar os programas responsáveis pela captura dos dados que serão plotados na aba "SWAP" do site do projeto TEST!
+
+Contém os arquivos Kotlin e Python de captura da aluna Bruna Bizaroli Rasmussen RA: 03231000
 Os arquivos capturam respectivamente: uso de RAM e CPU(Kotlin) e uso de memória SWAP (Python)
 Para executar o arquivo Kotlin basta clicar no .JAR e para executar a captura python é necessário o terminal Python.
+
+(nota: O arquivo Kotlin foi feito com base no original do grupo com as alterações devidas para se encaixar no contexto do projeto individual)
